@@ -47,10 +47,9 @@ python -m venv venv
 venv\Scripts\activate
 # Mac/Linux
 source venv/bin/activate
-```
 # Install dependencies
 pip install -r requirements.txt
-
+```
 ###3️⃣ Setup Frontend (React)
 ```bash
 # Run backend server
