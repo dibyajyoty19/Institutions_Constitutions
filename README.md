@@ -50,7 +50,7 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 ```
-###3️⃣ Setup Frontend (React)
+### 3️⃣ Frontend Setup (React)
 ```bash
 # Run backend server
 python app.py
