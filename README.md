@@ -36,7 +36,7 @@ The project promotes **constitutional literacy** in an engaging, inclusive, and 
 ```bash
 git clone https://github.com/your-username/institutions-and-constitution.git
 cd institutions-and-constitution
-
+```
 ### 2️⃣ Setup Backend (Python)
 ```bash
 # Create a virtual environment
@@ -47,7 +47,7 @@ python -m venv venv
 venv\Scripts\activate
 # Mac/Linux
 source venv/bin/activate
-
+```
 # Install dependencies
 pip install -r requirements.txt
 
